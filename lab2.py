@@ -95,11 +95,6 @@ match var:
             i += 1
 
 
-def Decartes():
-    delay('  ^ f(x)')
-    for j in range(9):
-        delay(f' {9-j}|')
-
 
 
 
